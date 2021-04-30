@@ -1,0 +1,10 @@
+body {
+  background-color: dimgray;
+}
+
+p {
+  border: 5px solid royalblue;
+  display: inline;
+  padding: 5px;
+  background-color: cornflowerblue;
+}
